@@ -93,7 +93,6 @@ hr {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    
 }
 
 .profile {
@@ -141,13 +140,12 @@ hr {
     color:#11999e;
 }
 
-.attribution{
+.attribution {
     color:#11999e;
     font-size: 12px;
 }
 .attribution:hover {
     color: #EAF6F6;
-  
 }
 
 .contact-message {
